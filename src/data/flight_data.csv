@@ -1,0 +1,101 @@
+fromPort;toPort;price;flight;airline
+Mexico City;Boston;1434;LH141;British Airways
+Boston;San Diego;228;TK595;Turkish Airlines
+Boston;Portland;1947;TK547;Air France
+Philadelphia;Miami;1800;EK720;Turkish Airlines
+Seattle;Boston;1432;SW562;Air France
+Miami;Paris;808;AF241;American Airlines
+San Diego;New York;403;DL671;United Airlines
+Paris;San Diego;826;UA513;Aeroméxico
+San Diego;Mexico City;1572;DL860;Qantas
+Boston;Miami;773;AM233;United Airlines
+Paris;Chicago;219;AM354;American Airlines
+Seattle;New York;1510;EK756;Qantas
+Houston;Philadelphia;1267;LH669;KLM Royal Dutch Airlines
+Portland;Houston;475;KL703;United Airlines
+New York;Los Angeles;614;KL667;Turkish Airlines
+Portland;New York;173;UA301;Turkish Airlines
+Mexico City;Portland;825;SW570;Lufthansa
+Chicago;Houston;217;DL298;Turkish Airlines
+Portland;New York;171;DL956;Air France
+Mexico City;San Diego;697;LH885;American Airlines
+Mexico City;Chicago;461;AF694;American Airlines
+Philadelphia;Miami;110;BA872;Lufthansa
+Seattle;San Diego;561;BA375;Lufthansa
+Boston;Philadelphia;135;BA292;Delta Airlines
+Los Angeles;Boston;173;SW962;KLM Royal Dutch Airlines
+Seattle;San Diego;166;BA257;British Airways
+Paris;Mexico City;561;UA559;KLM Royal Dutch Airlines
+Philadelphia;Houston;1927;UA622;KLM Royal Dutch Airlines
+New York;Philadelphia;1554;AA340;Aeroméxico
+Paris;New York;407;AM507;Air France
+Boston;Portland;1378;AM327;Southwest Airlines
+San Diego;Philadelphia;344;BA977;Southwest Airlines
+Mexico City;Seattle;1836;QF928;British Airways
+Chicago;Miami;546;BA171;United Airlines
+Mexico City;Paris;260;AM113;Qantas
+Chicago;Houston;300;BA435;Air France
+Mexico City;Houston;1916;DL551;Southwest Airlines
+Miami;Paris;1640;LH792;Emirates
+Houston;Los Angeles;1159;EK946;Lufthansa
+Chicago;Portland;1732;TK953;United Airlines
+Philadelphia;Chicago;129;QF931;Air France
+Seattle;Portland;454;SW204;American Airlines
+Seattle;Houston;1740;QF411;Aeroméxico
+San Diego;Boston;1736;BA869;American Airlines
+San Diego;Chicago;1836;AM396;American Airlines
+Chicago;Miami;1139;KL620;United Airlines
+Mexico City;Houston;495;TK346;Emirates
+Los Angeles;Portland;750;AA999;Emirates
+Mexico City;Portland;1480;DL572;British Airways
+Philadelphia;Portland;244;AA630;Southwest Airlines
+New York;Portland;736;EK724;Qantas
+New York;Mexico City;1618;TK993;Turkish Airlines
+Miami;New York;443;BA904;Turkish Airlines
+Boston;Philadelphia;836;BA137;Emirates
+Miami;Seattle;568;TK211;Qantas
+Houston;New York;626;LH876;American Airlines
+New York;Boston;1466;BA163;American Airlines
+Houston;New York;746;AM282;American Airlines
+Seattle;Portland;157;UA352;KLM Royal Dutch Airlines
+San Diego;Mexico City;154;BA729;Southwest Airlines
+Los Angeles;New York;626;EK653;Turkish Airlines
+San Diego;Miami;1799;SW794;United Airlines
+Houston;Mexico City;1736;AM289;British Airways
+Chicago;Miami;462;AM574;Lufthansa
+Mexico City;Chicago;353;EK715;British Airways
+Houston;Philadelphia;360;KL484;United Airlines
+Houston;Seattle;380;AM301;Air France
+Mexico City;Chicago;925;BA442;Air France
+Miami;Paris;949;BA227;Lufthansa
+Paris;Houston;1247;KL688;KLM Royal Dutch Airlines
+Boston;Los Angeles;1161;AM584;Qantas
+Philadelphia;Paris;403;EK417;Lufthansa
+Paris;Boston;1186;AF374;Lufthansa
+Houston;Seattle;705;LH699;Qantas
+Los Angeles;Mexico City;1182;SW408;Southwest Airlines
+Los Angeles;Mexico City;618;SW711;Southwest Airlines
+Seattle;New York;1408;UA107;Delta Airlines
+San Diego;Miami;117;LH720;Delta Airlines
+Boston;Mexico City;269;EK584;Lufthansa
+Paris;Los Angeles;378;UA167;Lufthansa
+Miami;Los Angeles;369;AA540;Southwest Airlines
+New York;San Diego;1146;SW522;Southwest Airlines
+Boston;Paris;451;LH685;American Airlines
+Houston;New York;481;QF342;Aeroméxico
+Seattle;Boston;1479;QF247;Lufthansa
+Seattle;Chicago;1719;SW363;Turkish Airlines
+Paris;Miami;105;AF529;British Airways
+Paris;Philadelphia;983;AM101;Qantas
+Boston;New York;1013;AA958;Southwest Airlines
+Portland;Mexico City;1526;QF118;KLM Royal Dutch Airlines
+Chicago;Houston;1858;TK812;Southwest Airlines
+Mexico City;Boston;720;AM947;KLM Royal Dutch Airlines
+Boston;Mexico City;1261;UA680;Lufthansa
+Chicago;Los Angeles;1843;UA795;Aeroméxico
+Mexico City;Paris;531;QF405;Turkish Airlines
+Mexico City;Boston;874;SW868;Aeroméxico
+Philadelphia;Seattle;643;BA959;Air France
+New York;Boston;1572;UA836;Emirates
+Houston;Portland;796;AF889;American Airlines
+Seattle;Los Angeles;1054;KL966;Delta Airlines
